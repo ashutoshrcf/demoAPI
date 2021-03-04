@@ -1,0 +1,56 @@
+[
+{
+"id": "VIN00001",
+"reg_number": "001",
+"name": "Frank Castle",
+"mobile": "7696769676",
+"postal_address": "NYC",
+"warranty_status": "true",
+"email_id": "a1@abc.com"
+},
+{
+"id": "VIN00002",
+"reg_number": "002",
+"name": "Thomas Shelby",
+"mobile": "7696769676",
+"postal_address": "NYC",
+"warranty_status": "true",
+"email_id": "a2@abc.com"
+},
+{
+"id": "VIN00003",
+"reg_number": "003",
+"name": "Matt Murdock",
+"mobile": "7696769676",
+"postal_address": "NYC",
+"warranty_status": "false",
+"email_id": "a3@abc.com"
+},
+{
+"id": "VIN00004",
+"reg_number": "004",
+"name": "John Wick",
+"mobile": "7696769676",
+"postal_address": "NYC",
+"warranty_status": "false",
+"email_id": "a4@abc.com"
+},
+{
+"id": "VIN00003",
+"reg_number": "003",
+"name": "Alex",
+"mobile": "7696769676",
+"postal_address": "NYC",
+"warranty_status": "false",
+"email_id": "a5@abc.com"
+},
+{
+"id": "VIN00004",
+"reg_number": "004",
+"name": "Alex",
+"mobile": "7696769676",
+"postal_address": "NYC",
+"warranty_status": "false",
+"email_id": "a6@abc.com"
+}
+]
