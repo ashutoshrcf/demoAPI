@@ -1,0 +1,20 @@
+{
+   "user-details":{
+      "vin":"string",
+      "reg_number":"string",
+      "name":"string",
+      "mobile":"string",
+      "postal_address":"string",
+      "warranty_status":"string",
+      "email_id":"string"
+   },
+   "account-details":{
+      "vin":"string",
+      "reg_number":"string",
+      "name":"string",
+      "mobile":"string",
+      "postal_address":"string",
+      "warranty_status":"string",
+      "email_id":"string"
+   }
+}
