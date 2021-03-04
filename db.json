@@ -1,4 +1,4 @@
-{
+[{
 "id": "VIN00001",
 "reg_number": "001",
 "name": "Frank Castle",
@@ -52,3 +52,4 @@
 "warranty_status": "false",
 "email_id": "a6@abc.com"
 }
+]
